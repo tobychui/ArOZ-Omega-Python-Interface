@@ -1,0 +1,4 @@
+﻿Charset,UTF-8
+type,shell
+name,蓝狐
+directory,蓝狐
