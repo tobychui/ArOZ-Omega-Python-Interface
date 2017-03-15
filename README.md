@@ -1,5 +1,6 @@
 # ArOZ-Omega-Python-Interface
 ArOZ Omega Python Interface for Linux Environment, created with pygame.
+<img src="https://raw.githubusercontent.com/tobychui/ArOZ-Omega-Python-Interface/master/interface%20preview.png">
 
 # Introduction
 ArOZ Omega Interface is an intergrated user interface for touch screen raspberry pi.
